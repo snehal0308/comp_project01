@@ -1,2 +1,2 @@
 # comp_project01
-This a repo of my school assignement 
+This a repo of my school assignment 
